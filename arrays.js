@@ -13,7 +13,7 @@ for (let element of myArr) {
 // console.log(result);
 
 // 3.
-// console.log(myArr.map((element) => element + 1));
+console.log(myArr.map((element) => element + 1));
 
 let greaterThanFive = [];
 
