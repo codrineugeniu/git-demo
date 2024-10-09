@@ -1,6 +1,6 @@
 console.log("hello world!");
 
-class CarRedenumit {
+class CarDemo {
   start() {
     console.log("car is starting");
   }
